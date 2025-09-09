@@ -2,7 +2,7 @@ To use the action fit to calculate $\beta$ within *CosmoTransitions*, one can re
 *transitionFinder.py*.
 
 After that, the functionality can be invoked using the following code:
-
+::
   m = model1()
   m.findAllTransitions()
     for tran in m.TnTrans:
